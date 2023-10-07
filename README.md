@@ -21,9 +21,9 @@ Build an application that allows me to make requests to an API (https://giphy.co
 
 ### Screenshot
 
-![](./images/dragon.JPG)
-
 ![](./images/menu.JPG)
+
+![](./images/dragon.JPG)
 
 ![](./images/messi.JPG)
 
